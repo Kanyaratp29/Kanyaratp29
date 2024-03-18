@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm gift</h1>
-<h3 align="center">A sleepy girl from somewhere on earth</h3>
+<h3 align="center">Currently study in Computer Science 3rd years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanyaratp29&label=Profile%20views&color=0e75b6&style=flat" alt="kanyaratp29" /> </p>
 
